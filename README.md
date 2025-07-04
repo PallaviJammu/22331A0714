@@ -1,4 +1,5 @@
-# React + Vite
+# URL Shortner Application
+OUTPUT SCREENSHOTS
 
 ![Screenshot from 2025-07-04 12-25-50](https://github.com/user-attachments/assets/667c8b3f-4580-4211-b91a-b57c3fad0455)
 
